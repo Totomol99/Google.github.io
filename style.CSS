@@ -1,0 +1,161 @@
+* {
+    margin: 0px;
+    padding: 0px;
+
+}
+
+body {
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Playfair Display', serif;
+    background-color: rgb(244, 241, 247);
+
+}
+
+.Up {
+    display: flex;
+    flex direction: row;
+    padding: 10px;
+    justify-content: flex-end;
+    background-color: white;
+
+
+}
+
+.hand {
+
+    padding: 15px 30px;
+    justify-items: center;
+}
+
+#acceder {
+    width: 120px;
+    height: 40px;
+    border-radius: 5%;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Playfair Display', serif;
+    background-color: blue;
+    font-size: 25;
+    color: white;
+    border: 0px;
+}
+
+#icon {
+    height: 15px;
+    width: 15px;
+
+}
+
+.google {
+    padding-top: 80px;
+    padding-bottom: 30px;
+    display: flex;
+    justify-content: center;
+    background-color: white;
+
+}
+
+#logo {
+    width: 320px;
+    height: 132px;
+}
+
+.bar {
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    background-color: white;
+}
+
+.bar2 {
+    width: 400px;
+    border-radius: 30px;
+    height: 40px;
+    display: flex;
+    flex direction: row;
+    justify-content: space-between;
+    width: 60%;
+    border: solid 2px;
+    border-color: rgb(205, 205, 205);
+
+}
+
+.subbar {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.subbar2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+
+}
+
+.png {
+    height: 20px;
+    width: 20px;
+    padding: 10px;
+}
+
+.down {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 30px;
+    background-color: white;
+    padding-bottom: 40px;
+}
+
+.botones {
+    padding: 15px;
+}
+
+#search {
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Playfair Display', serif;
+    font-size: 20;
+    background-color: rgb(244, 241, 247);
+    width: 200px;
+    height: 40px;
+    border: 0px;
+}
+
+#lucky {
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Playfair Display', serif;
+    font-size: 20;
+    background-color: rgb(244, 241, 247);
+    width: 200px;
+    height: 40px;
+    border: 0px;
+}
+
+.end {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(244, 241, 247);
+
+}
+
+.low {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.last {
+    padding: 10px;
+}
+
+.floor1 {
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(244, 241, 247);
+}
+
+.floor2 {
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(244, 241, 247);
+}
